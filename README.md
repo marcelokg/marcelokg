@@ -7,4 +7,4 @@ Atualmente focado em transformar dados brutos em insights estratégicos e modelo
 - **Desenvolvimento** (Javascript, React, VueJS)
 
 ---
-**Como me encontrar:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelokriiger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelokriiger)
